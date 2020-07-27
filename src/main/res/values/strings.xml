@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Program do zamówień</string>
+    <string name="user_account">Konto użytkownika</string>
+    <string name="settings">Ustawienia</string>
+    <string name="logout">Wyloguj</string>
+    <string name="close">Program do zamówień</string>
+    <string name="open">Menu główne</string>
+    <string name="search_hint">Znajdź lek...</string>
+
+    <string name="menu_zamowienia">Zamówienia</string>
+    <string name="menu_account">Konto użytkownika</string>
+    <string name="menu_settings">Ustawienia</string>
+    <string name="title_activity_user_settings">Ustawienia użytkownika</string>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="pref_header_user">Użytkownik</string>
+    <string name="pref_licence">Licencja</string>
+    <string name="pref_default_nr_apt">Numer apteki</string>
+    <string name="choose_email_client">Wybierz email</string>
+    <string name="key_send_feedback">Send feedback</string>
+    <string name="summary_support">Send feedback</string>
+    <string name="title_send_feedback">Title send feedback</string>
+    <string name="menu_documents">Faktury VAT</string>
+    <string name="menu_packages">Pojemniki</string>
+    <string name="pref_display_name">Nazwa</string>
+    <string name="pref_display_street">Ul.</string>
+    <string name="pref_default_postal_code">Kod pocztowy</string>
+    <string name="pref_display_short_name">Nazwa skr.</string>
+    <string name="pref_city">Miejscowość</string>
+    <string name="pref_email">Email</string>
+    <string name="pref_phone">Telefon</string>
+    <string name="menu_notifications">Powiadomienia</string>
+    <string name="menu_complaints">Reklamacje</string>
+    <string name="menu_contact">LUBFARM - Dział sprzedaży</string>
+
+    <string name="pref_description_test">Jakiś tam przełącznik</string>
+    <string name="pref_title_test_sw">Jakieś coś</string>
+    <string name="pref_default_test_cos">Jakiś EditTextPreference</string>
+    <string name="pref_title_test_list">Jakaś lista</string>
+
+    <string name="pref_przedstawiciel">Przedstawiciel</string>
+    <string name="menu_contact_representative">Kontakt z przedstawicielem handlowym</string>
+    <string name="order_pos">Pozycje zamówienia</string>
+    <string name="shared_preferences_tag">ProgramDoZamowien</string>
+</resources>
+

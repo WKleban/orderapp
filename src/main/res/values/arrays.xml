@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_example_list_values">testowe_elementy_listy</string-array>
+    <string-array name="pref_example_list_titles">lista_testowa</string-array>
+    <string-array name="czas_list">
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>1 godzina</item>
+        <item>3 godziny</item>
+        <item>6 godzin</item>
+        <item>Nigdy</item>
+    </string-array>
+</resources>

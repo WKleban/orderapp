@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#007a16</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#383a42</color>
+
+    <!--to jest do 2-kolorowego Toasta-->
+    <color name="zoltyAPS">#CDD540</color>
+    <color name="zielonyAPS">#5AB656</color>
+
+    <color name="colorLightGrey">#bdbdbd</color>
+    <color name="colorRed">#ff0000</color>
+    <color name="colorGreen">#00ff00</color>
+    <color name="colorLightGreen">#C8E6C9</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+
+    <color name="colorMaterialYellow">#fdd835</color>
+    <color name="colorMaterialGreen">#00c853</color>
+    <color name="colorMaterialRed">#d50000</color>
+</resources>
